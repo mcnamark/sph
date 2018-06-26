@@ -14,6 +14,7 @@ tic; % Begin program timer
 %% Initialize program.
 SPH_initialize;
 
+% Test comment
 
 
 
